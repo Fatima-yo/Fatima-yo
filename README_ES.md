@@ -1,102 +1,102 @@
-# 👋 Hello! I'm Fatima Castiglione Maldonado
+# 👋 ¡Hola! Soy Fatima Castiglione Maldonado
 
-## 🚀 **Senior Full Stack Web3 & Blockchain Developer**
+## 🚀 **Desarrolladora Full Stack Web3 & Blockchain Senior**
 
 **DeFi Architect | Smart Contract Developer | Author | Security Expert**
 
-📍 **Location:** Montevideo, Uruguay  
+📍 **Ubicación:** Montevideo, Uruguay  
 📧 **Email:** [castiglionemaldonado@gmail.com](mailto:castiglionemaldonado@gmail.com)  
 📱 **Telegram:** [@Fatima_CM](https://t.me/Fatima_CM)  
 🔗 **LinkedIn:** [fatima-castiglione-maldonado](https://www.linkedin.com/in/fatima-castiglione-maldonado/)  
 📚 **Medium:** [@FatimaFlash](https://medium.com/@FatimaFlash)  
-📖 **Book:** [Introduction to Blockchain with Ethereum](https://www.amazon.com/Introduction-Blockchain-Ethereum-transactions-decentralized/dp/1789612713)
+📖 **Libro:** [Introduction to Blockchain with Ethereum](https://www.amazon.com/Introduction-Blockchain-Ethereum-transactions-decentralized/dp/1789612713)
 
 ---
 
-## 💼 **Professional Experience**
+## 💼 **Experiencia Profesional**
 
-### **XCQR Core (Exchequer)** | Feb 2022 – Present
-*Senior Blockchain Developer*
+### **XCQR Core (Exchequer)** | Feb 2022 – Actualidad
+*Desarrolladora Blockchain Senior*
 
-- **Smart Contracts:** Development of complex contracts for DeFi protocol for liquidity management and distribution of financial instruments
-- **Modular Architecture:** Implementation of Registry, Factory, Builder and Adapter patterns for smart contracts
-- **DEX Integration:** Management of liquidity positions in Uniswap V2/V3 with custom adapters
-- **Distribution System:** Creation of system for financial instruments with support for fixed prices and auctions
-- **Backend Development:** RESTful APIs, blockchain event listeners, DeFi data indexing
+- **Smart Contracts:** Desarrollo de contratos complejos para protocolo DeFi de gestión de liquidez y distribución de instrumentos financieros
+- **Arquitectura Modular:** Implementación de patrones Registry, Factory, Builder y Adapter para contratos inteligentes
+- **DEX Integration:** Gestión de posiciones de liquidez en Uniswap V2/V3 con adaptadores personalizados
+- **Sistema de Distribución:** Creación de sistema para instrumentos financieros con soporte para precios fijos y subastas
+- **Backend Development:** APIs RESTful, listeners de eventos blockchain, indexación de datos DeFi
 
 ### **Triton.one** | 2024 - 2025
-*Rust/Solana Developer - Isle of Man*
+*Desarrolladora Rust/Solana - Isle of Man*
 
-- Development in **Rust** on **Solana** (devnet and mainnet)
-- Identity management and transaction processing
-- Implementation of scalable blockchain solutions
+- Desarrollo en **Rust** sobre **Solana** (devnet y mainnet)
+- Manejo de identidad y procesamiento de transacciones
+- Implementación de soluciones blockchain escalables
 
 ### **Swarm Network** | 2023 - 2024
-*Blockchain Developer - Slovenia*
+*Desarrolladora Blockchain - Eslovenia*
 
-- **Solidity, Go, Rell** for blockchain development
-- **Multi-chain NFT marketplace** + bridge implementation
-- Development of **blockchain game** with Web3 integration
+- **Solidity, Go, Rell** para desarrollo blockchain
+- **Marketplace NFT multi-chain** + bridge implementation
+- Desarrollo de **juego blockchain** con integración Web3
 
 ### **Chromaway** | 2022 - 2023
-*Blockchain Developer - Stockholm*
+*Desarrolladora Blockchain - Estocolmo*
 
-- **Solidity, Go, Rell** for smart contracts
-- **NFT marketplace** + bridge development
-- Development of **blockchain game** with blockchain technology
+- **Solidity, Go, Rell** para smart contracts
+- **Marketplace NFT** + bridge development
+- Desarrollo de **juego blockchain** con tecnología blockchain
 
 ### **Mintlayer / RBBLab** | 2021 - 2022
-*Smart Contracts Developer - San Marino*
+*Desarrolladora Smart Contracts - San Marino*
 
-- **Solidity + HardHat** for contract development
-- **Token and TGE** with vesting schedules
-- **Staking dApp** with Web3 integration
+- **Solidity + HardHat** para desarrollo de contratos
+- **Token y TGE** con vesting schedules
+- **dApp de staking** con integración Web3
 
 ### **The Privi Project** | 2021
-*Ethereum Developer - London*
+*Desarrolladora Ethereum - Londres*
 
-- **Ethereum, HardHat, IPFS** for NFT protocol
-- NFT protocol for music with royalty management
-- Integration with decentralized payment systems
+- **Ethereum, HardHat, IPFS** para protocolo NFT
+- Protocolo NFT para música con gestión de royalties
+- Integración con sistemas de pago descentralizados
 
 ### **Ethernity Consultancy** | 2020
-*DeFi Consultant - Montevideo*
+*Consultora DeFi - Montevideo*
 
-- **DeFi with NFTs** and decentralized protocols
-- Document tracking system with **IPFS**
-- Development of enterprise blockchain solutions
+- **DeFi con NFTs** y protocolos descentralizados
+- Sistema de tracking documental con **IPFS**
+- Desarrollo de soluciones blockchain empresariales
 
 ### **Azumo Consultancy** | 2019
-*Technical Lead - San Francisco*
+*Líder Técnico - San Francisco*
 
-- Technical leadership in blockchain projects
-- Backend for beverage supply chain system (Chai Vault)
-- Architecture of enterprise solutions
+- Liderazgo técnico en proyectos blockchain
+- Backend para sistema de supply chain en bebidas (Chai Vault)
+- Arquitectura de soluciones empresariales
 
 ### **The Hydro Project** | 2019
-*Blockchain Developer - Texas*
+*Desarrolladora Blockchain - Texas*
 
-- Protocol for issuing **regulated Securities** on Ethereum
-- Implementation of compliance and financial regulations
-- Smart contracts for traditional financial instruments
+- Protocolo para emisión de **Securities regulados** en Ethereum
+- Implementación de compliance y regulaciones financieras
+- Smart contracts para instrumentos financieros tradicionales
 
 ### **Packt Publishing House** | 2017 - 2018
-*Technical Author - London*
+*Autora Técnica - Londres*
 
-- **Author of the book:** *Introduction to Blockchain with Ethereum*
-- [Available on Amazon](https://www.amazon.com/Introduction-Blockchain-Ethereum-transactions-decentralized/dp/1789612713)
-- Contribution to global blockchain education
+- **Autora del libro:** *Introduction to Blockchain with Ethereum*
+- [Disponible en Amazon](https://www.amazon.com/Introduction-Blockchain-Ethereum-transactions-decentralized/dp/1789612713)
+- Contribución a la educación blockchain global
 
 ### **SouthX Consultancy** | 2013 - 2018
-*Senior Developer - Buenos Aires*
+*Desarrolladora Senior - Buenos Aires*
 
-- **Python** (2013-2016) for bitcoin exchange
-- **Solidity** (2017-2018) for DEX and other DeFi projects
-- Development of decentralized financial solutions
+- **Python** (2013-2016) para exchange de bitcoin
+- **Solidity** (2017-2018) para DEX y otros proyectos DeFi
+- Desarrollo de soluciones financieras descentralizadas
 
 ---
 
-## 🛠️ **Technology Stack**
+## 🛠️ **Stack Tecnológico**
 
 ### **Blockchain & Web3**
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -137,7 +137,7 @@
 
 ---
 
-## 📊 **GitHub Statistics**
+## 📊 **Estadísticas de GitHub**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fatima-yo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
@@ -147,18 +147,18 @@
 
 ---
 
-## 🏆 **Achievements & Recognition**
+## 🏆 **Logros & Reconocimientos**
 
-- **Published author** at Packt Publishing House
-- **15+ years** of software development experience
-- **10+ years** specialized in blockchain and DeFi
-- **Active contributor** in the blockchain ecosystem
-- **Expert in multiple blockchains:** Ethereum, Solana, Polygon, Arbitrum
-- **Deep knowledge** in traditional finance and DeFi
+- **Autora publicada** en Packt Publishing House
+- **15+ años** de experiencia en desarrollo de software
+- **10+ años** especializada en blockchain y DeFi
+- **Contribuidora activa** en el ecosistema blockchain
+- **Experta en múltiples blockchains:** Ethereum, Solana, Polygon, Arbitrum
+- **Conocimientos profundos** en finanzas tradicionales y DeFi
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 **Conecta Conmigo**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fatima-castiglione-maldonado/" target="_blank">
@@ -180,10 +180,10 @@
 
 ---
 
-## 📚 **Publications & Resources**
+## 📚 **Publicaciones & Recursos**
 
-- 📖 **[Book: Introduction to Blockchain with Ethereum](https://www.amazon.com/Introduction-Blockchain-Ethereum-transactions-decentralized/dp/1789612713)** - Packt Publishing
-- ✍️ **[Blog on Medium](https://medium.com/@FatimaFlash)** - Articles about blockchain and DeFi
+- 📖 **[Libro: Introduction to Blockchain with Ethereum](https://www.amazon.com/Introduction-Blockchain-Ethereum-transactions-decentralized/dp/1789612713)** - Packt Publishing
+- ✍️ **[Blog en Medium](https://medium.com/@FatimaFlash)** - Artículos sobre blockchain y DeFi
 
 ---
 
@@ -192,4 +192,4 @@
 
 ---
 
-*🤝 **Open to collaborations on interesting blockchain and DeFi projects***
+*🤝 **Abierta a colaboraciones en proyectos interesantes de blockchain y DeFi***
