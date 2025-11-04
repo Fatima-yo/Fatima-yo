@@ -15,14 +15,7 @@
 
 ## 💼 **Professional Experience**
 
-### **XCQR Core (Exchequer)** | Feb 2022 – Present
-*Senior Blockchain Developer*
-
-- **Smart Contracts:** Development of complex contracts for DeFi protocol for liquidity management and distribution of financial instruments
-- **Modular Architecture:** Implementation of Registry, Factory, Builder and Adapter patterns for smart contracts
-- **DEX Integration:** Management of liquidity positions in Uniswap V2/V3 with custom adapters
-- **Distribution System:** Creation of system for financial instruments with support for fixed prices and auctions
-- **Backend Development:** RESTful APIs, blockchain event listeners, DeFi data indexing
+For Ethernity Technologies:
 
 ### **Triton.one** | 2024 - 2025
 *Rust/Solana Developer - Isle of Man*
@@ -34,9 +27,8 @@
 ### **Swarm Network** | 2023 - 2024
 *Blockchain Developer - Slovenia*
 
-- **Solidity, Go, Rell** for blockchain development
-- **Multi-chain NFT marketplace** + bridge implementation
-- Development of **blockchain game** with Web3 integration
+- **Solidity, Go
+- **Multi-chain exchange dApp**
 
 ### **Chromaway** | 2022 - 2023
 *Blockchain Developer - Stockholm*
@@ -45,35 +37,28 @@
 - **NFT marketplace** + bridge development
 - Development of **blockchain game** with blockchain technology
 
-### **Mintlayer / RBBLab** | 2021 - 2022
+### **Mintlayer / RBBLab** | 2022 - 2022
 *Smart Contracts Developer - San Marino*
 
 - **Solidity + HardHat** for contract development
 - **Token and TGE** with vesting schedules
 - **Staking dApp** with Web3 integration
 
-### **The Privi Project** | 2021
+### **The Privi Project** | 2021 - 2021
 *Ethereum Developer - London*
 
 - **Ethereum, HardHat, IPFS** for NFT protocol
 - NFT protocol for music with royalty management
-- Integration with decentralized payment systems
+- Integration with decentralised payment systems
 
-### **Ethernity Consultancy** | 2020
-*DeFi Consultant - Montevideo*
-
-- **DeFi with NFTs** and decentralized protocols
-- Document tracking system with **IPFS**
-- Development of enterprise blockchain solutions
-
-### **Azumo Consultancy** | 2019
+### **Azumo Consultancy** | 2019 - 2019
 *Technical Lead - San Francisco*
 
 - Technical leadership in blockchain projects
 - Backend for beverage supply chain system (Chai Vault)
 - Architecture of enterprise solutions
 
-### **The Hydro Project** | 2019
+### **The Hydro Project** | 2019 - 2019
 *Blockchain Developer - Texas*
 
 - Protocol for issuing **regulated Securities** on Ethereum
@@ -92,7 +77,7 @@
 
 - **Python** (2013-2016) for bitcoin exchange
 - **Solidity** (2017-2018) for DEX and other DeFi projects
-- Development of decentralized financial solutions
+- Development of decentralised financial solutions
 
 ---
 
