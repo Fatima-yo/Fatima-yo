@@ -65,12 +65,16 @@ For Ethernity Technologies:
 - Implementation of compliance and financial regulations
 - Smart contracts for traditional financial instruments
 
+Author:
+
 ### **Packt Publishing House** | 2017 - 2018
 *Technical Author - London*
 
 - **Author of the book:** *Introduction to Blockchain with Ethereum*
 - [Available on Amazon](https://www.amazon.com/Introduction-Blockchain-Ethereum-transactions-decentralized/dp/1789612713)
 - Contribution to global blockchain education
+
+Previous job:
 
 ### **SouthX Consultancy** | 2013 - 2018
 *Senior Developer - Buenos Aires*
