@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Fatima Castiglione Maldonado
 
-## 🚀 **Senior Full Stack Web3 & Blockchain Developer**
+## 🚀 **AI-first Developer. **
 
-**DeFi Architect | Smart Contract Developer | Author | Security Expert**
+**SDD - OpenSpec (GreenField+BrownField). ML/AI Engineer (Python, Langchain, LangGraph, RAG, MCP) and Blockchain Engineer (Move, Rust, Solidity). Modernization Architect: AI, DLT/DeFi/Crypto and Legacy.**
 
 📍 **Location:** Montevideo, Uruguay  
 📧 **Email:** [castiglionemaldonado@gmail.com](mailto:castiglionemaldonado@gmail.com)  
@@ -14,6 +14,12 @@
 ---
 
 ## 💼 **Professional Experience**
+
+For TACC - The Americas Consulting Company:
+
+- Crypto stealth startup — networking utilities (Python)
+- AI stealth startup — Compliance Agent (Python, LangGraph, MCP, RAG)
+- AI stealth startup — User Onboarding Workflow (Python, LangChain, MCP, RAG)
 
 For Ethernity Technologies:
 
