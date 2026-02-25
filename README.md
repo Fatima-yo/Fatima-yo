@@ -21,8 +21,6 @@ For TACC - The Americas Consulting Company:
 - AI stealth startup — Compliance Agent (Python, LangGraph, MCP, RAG)
 - AI stealth startup — User Onboarding Workflow (Python, LangChain, MCP, RAG)
 
-For Ethernity Technologies:
-
 ### **Triton.one** | 2024 - 2025
 *Rust/Solana Developer - Isle of Man*
 
