@@ -1,6 +1,6 @@
-# 👋 Hello! I'm Fatima Castiglione Maldonado
+# 👋 Hello! I'm Fatima Maldonado
 
-## 🚀 **AI-first Developer. **
+## 🚀 **AI-first Developer, Blockchain, Web, Mobile, Legacy. **
 
 **SDD - OpenSpec (GreenField+BrownField). ML/AI Engineer (Python, Langchain, LangGraph, RAG, MCP) and Blockchain Engineer (Move, Rust, Solidity). Modernization Architect: AI, DLT/DeFi/Crypto and Legacy.**
 
